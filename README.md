@@ -1,4 +1,4 @@
-# Account-System-SQLite
+# Electrical-Formulas
 
 -This project is made for easier calculations of some electrical paramethers, or simply said it contains the most used formulas in electrical engineering
 
